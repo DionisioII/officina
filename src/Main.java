@@ -5,9 +5,9 @@ public class Main {
 		
 	public static void main(String[] args){
 		
-		 FmrMain prova = new FmrMain();
+		 FmrMain view = new FmrMain();
 	      
 	        
-	        prova.setVisible(true);
+	        view.setVisible(true);
 	}
 }
